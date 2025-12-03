@@ -11,6 +11,6 @@ environment:
 
 dependencies:
   shared_aws_api:
-    path: ../../generated/shared_aws_api
+    path: ../../shared_aws_api
 
 
