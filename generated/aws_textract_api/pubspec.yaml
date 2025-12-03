@@ -11,7 +11,6 @@ environment:
 
 dependencies:
   shared_aws_api:
-    git: https://github.com/SanzharM/aws_client.git
-    path: shared_aws_api
+    path: ../../generated/shared_aws_api
 
 
