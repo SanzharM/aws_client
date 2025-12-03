@@ -10,6 +10,8 @@ environment:
   sdk: '^3.0.0'
 
 dependencies:
-  shared_aws_api: ^2.0.0
+  shared_aws_api:
+    git: https://github.com/SanzharM/aws_client.git
+    path: shared_aws_api
 
 
